@@ -1,4 +1,4 @@
-##Characterizing Which Hacker News Posts Receive the Most Comments
+**Characterizing Which Hacker News Posts Receive the Most Comments**
 
 The current project focuses on determining what kinds of Hacker News posts receive more comments. 
 
